@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.SetakRepair" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#12151A</item>
+        <item name="android:windowBackground">#F3F5F8</item>
+    </style>
+</resources>
